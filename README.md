@@ -1,6 +1,7 @@
 # Data Analytics with PACE Approach 🚀💻
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![PACE workflow](https://github.com/anurashikvk/Data-Analytics-Mastery---PACE-Strategy-/assets/134492695/db0fef46-4990-4577-aba5-9fa24be8cf4d)
+
 
 ## Overview
 
